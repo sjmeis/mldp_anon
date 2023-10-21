@@ -1,0 +1,12 @@
+keras
+nltk
+numba
+numpy
+pandas
+scikit_learn
+scipy
+tensorflow
+datasets
+tqdm
+sentence_transformers
+scipy
